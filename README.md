@@ -36,19 +36,19 @@ The repository is divided into:
 ```text
 cisco-packet-tracer-labs/
 │
-├── 01-network-fundamentals/
+├── cisco-packet-labs/01-network-fundamentals/
 │   ├── configure-initial-router-settings.pka
 │   ├── configure-initial-switch-settings.pka
 │   └── implement-basic-connectivity.pka
 │
-├── 03-vlans-and-trunking/
+├── cisco-packet-labs/03-vlans-and-trunking/
 │   ├── 3.3.12-vlan-configuration.pka
 │   ├── 3.4.5-configure-trunks.pka
 │   ├── 3.4.6-configure-vlans-and-trunking-physical-mode.pka
 │   ├── 3.5.5-configure-dtp.pka
 │   └── 3.6.1-implement-vlans-and-trunking.pka
 │
-├── 04-inter-vlan-routing/
+├── cisco-packet-labs/04-inter-vlan-routing/
 │   └── 4.5.1-inter-vlan-routing-challenge.pka
 │
 ├── projects/
@@ -115,7 +115,7 @@ The `.pka` files are focused Packet Tracer activities. They are organized by top
 Directory:
 
 ```text
-01-network-fundamentals/
+cisco-packet-labs/01-network-fundamentals/
 ```
 
 #### Configure Initial Router Settings
@@ -197,7 +197,7 @@ ping <destination-ip>
 Directory:
 
 ```text
-03-vlans-and-trunking/
+cisco-packet-labs/03-vlans-and-trunking/
 ```
 
 This section focuses on Layer 2 segmentation and communication between switches.
@@ -339,7 +339,7 @@ Focus:
 Directory:
 
 ```text
-04-inter-vlan-routing/
+cisco-packet-labs/04-inter-vlan-routing/
 ```
 
 #### 4.5.1 - Inter-VLAN Routing Challenge
